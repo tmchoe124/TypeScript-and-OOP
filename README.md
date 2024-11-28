@@ -34,4 +34,4 @@ To deploy this project, go to your terminal and type in the following:
 
 ## Walkthrough Video Link
 
-    
+https://drive.google.com/file/d/13VykHh-2OQsQ-K0jj5j_VRQqB2EL9ZA5/view
